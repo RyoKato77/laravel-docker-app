@@ -5,7 +5,7 @@ git pull git@github.com:RyoKato77/laravel-app.git
 
 composer update(install)
 
-#change passwords in docker-compose.yml.sample and rename it to docker-compose.yml
+#change passwords in the file named docker-compose.yml.sample and rename it to 「docker-compose.yml」
 
 docker-compose up -d
 
