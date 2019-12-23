@@ -13,4 +13,4 @@ docker-compose exec app bash
 
 #access your localhost
 
-#click a generate key botton
+#click  generate key botton
