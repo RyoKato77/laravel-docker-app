@@ -5,7 +5,7 @@ git pull git@github.com:RyoKato77/laravel-app.git
 
 composer update(install)
 
-#add docker-compose.yml to this folder
+#change passwords in docker-compose.yml.sample and rename it to docker-compose.yml
 
 docker-compose up -d
 
@@ -13,4 +13,4 @@ docker-compose exec app bash
 
 #access your localhost
 
-#click generate key
+#click a generate key botton
